@@ -64,7 +64,7 @@ section h2 {
 }
 
 #tentang p {
-    margin-bottom: 12px;
+    margin-bottom: 16px;
 }
 
 .kartu-item {
@@ -94,6 +94,7 @@ section h2 {
 #kontak a,
 footer a {
     color: var(--warna-utama);
+    font-weight: bold;
 }
 
 footer {
